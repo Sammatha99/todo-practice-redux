@@ -1,9 +1,3 @@
-# Ứng dụng redux vào todo app
-
-template todo app css: https://github.com/Klerith/TODO-CSS-Template
-
-
-
 # TODO APP
 > personal exercises use impletation of redux in this todo webapp, final product [HERE](https://sammatha99.github.io/todo-practice-redux/)
 
